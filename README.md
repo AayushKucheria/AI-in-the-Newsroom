@@ -10,3 +10,5 @@ Check out our full [report](https://docs.google.com/document/d/13FCGSBSCl_E6lW0l
 ![](https://github.com/AayushKucheria/ApartHackathon-AI-and-Democracy-2024/blob/main/images/control_linePlot.png)
 ![](https://github.com/AayushKucheria/ApartHackathon-AI-and-Democracy-2024/blob/main/images/chatGPT_histogram.png)
 ![](https://github.com/AayushKucheria/ApartHackathon-AI-and-Democracy-2024/blob/main/images/control_histogram.png)
+
+We undertook this project as part of the Apart Research Hackathon ["AI x Democracy: Demonstrating the Risks"](https://www.apartresearch.com/event/ai-democracy).
