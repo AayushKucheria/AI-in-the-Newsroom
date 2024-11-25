@@ -1,5 +1,7 @@
 # AI in the Newsroom: Analyzing the Increase in ChatGPT-Favored Words in News Articles
 
+Authors: Aayush Kucheria, Okko Katajamäki, Santeri Koivula, Andrea La Mantia, Norman Piotrowski
+
 ## Abstract
 
 Media plays a vital role in informing the public and upholding accountability in democracy. However, recent trends indicate declining trust in media, and there are increasing concerns that artificial intelligence might exacerbate this through the proliferation of inauthentic content. 
@@ -13,4 +15,6 @@ Check out our full report [here](https://docs.google.com/document/d/13FCGSBSCl_E
 ![](https://github.com/AayushKucheria/ApartHackathon-AI-and-Democracy-2024/blob/main/images/chatGPT_histogram.png)
 ![](https://github.com/AayushKucheria/ApartHackathon-AI-and-Democracy-2024/blob/main/images/control_histogram.png)
 
-We undertook this project as part of the Apart Research Hackathon ["AI x Democracy: Demonstrating the Risks"](https://www.apartresearch.com/event/ai-democracy).
+## Acknowledgements 
+
+The paper was written as a submission to the AI x Democracy Hackathon organized by Apart Research.
